@@ -3,9 +3,9 @@ Input: an integer
 Returns: an integer
 '''
 def eating_cookies(n):
-    # Your code here
+# whyyyyyy
 
-    pass
+pass 
 
 if __name__ == "__main__":
     # Use the main function here to test out your implementation
